@@ -1,0 +1,4 @@
+[30-Jan-2018 00:39:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function set() on array in /home/tiendaej/public_html/gpozos/webhook/ss_orders/webhook/webhook-listener.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/tiendaej/public_html/gpozos/webhook/ss_orders/webhook/webhook-listener.php on line 35
